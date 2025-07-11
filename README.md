@@ -19,22 +19,14 @@ Developed an end-to-end recommendation system powered by LLMs for Amazon product
 
 ---
 
-## 🔁 System Overview
+## 🔁 System and Recommendation Pipeline 
 
 <img src="assets/LLM_pipeline.png" width="720">
 
 ---
 
-## 🧠 Core Inference Pipeline
-
-<img src="assets/LLM_recitem3.png" width="720">
-
----
-
 ## 🧾 Selected Outputs
-
-> “Hair that loves you back — wigs, softness, bangs.”  
-> “You will love the softness of this wig.”
+<img src="assets/LLM_recitem3.png" width="720">
 
 ---
 
