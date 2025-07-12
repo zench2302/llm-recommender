@@ -140,6 +140,9 @@ Output:
 
 ### 📊 Evaluation Snapshot
 
+The following metrics reflect the system's performance on non-cold-start users only!
+
+
 | Metric                  | Score (non-cold start) |
 |-------------------------|------------------------|
 | Semantic Match (CosSim) | 71.8%                  |
